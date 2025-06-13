@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.151.226.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1749457780872
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749779138421
+  login: 1749779618466
+money: '0'
+last-account-name: NotMausiii
+lastlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 1377.328240156671
+  y: 76.0
+  z: 68.99851414524663
+  yaw: 41.120849609375
+  pitch: 15.309152603149414
+logoutlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 1818.4183655910742
+  y: 150.0
+  z: -622.2375000119209
+  yaw: -51.628662109375
+  pitch: 28.12089729309082

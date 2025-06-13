@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.229.163.194
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1749455293942
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749742650702
+  login: 1749741680558
+money: '0'
+last-account-name: nambunvll
+lastlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 299.5
+  y: 67.0
+  z: -318.5
+  yaw: -90.0
+  pitch: 0.0
+logoutlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 7062.732609007431
+  y: -37.0
+  z: 2168.379453769256
+  yaw: 132.290771484375
+  pitch: 63.09403991699219

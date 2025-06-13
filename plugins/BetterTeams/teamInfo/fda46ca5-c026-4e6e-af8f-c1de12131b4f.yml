@@ -1,0 +1,120 @@
+name: Andeptrai
+description: ''
+open: false
+pvp: false
+anchor: false
+home: world:5532.938496256415:64.0:1301.1441271119845:-0.3366089:81.40183
+color: '9'
+chests: []
+players:
+- e0f04b8e-d04b-3b4c-839a-d485b6132aa2,OWNER
+anchoredPlayers: []
+level: 1
+tag: ''
+echest:
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:grindstone
+    count: 1
+    schema_version: 1
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:enchanting_table
+    count: 2
+    schema_version: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:redstone
+    count: 40
+    schema_version: 1
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:bookshelf
+    count: 53
+    schema_version: 1
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:book
+    count: 64
+    schema_version: 1
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:lapis_lazuli
+    count: 54
+    schema_version: 1
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:lapis_block
+    count: 55
+    schema_version: 1
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:shears
+    count: 1
+    components:
+      minecraft:damage: '8'
+    schema_version: 1
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:tnt
+    count: 4
+    schema_version: 1
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:name_tag
+    count: 2
+    schema_version: 1
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:bow
+    count: 1
+    components:
+      minecraft:repair_cost: '1'
+      minecraft:enchantments: '{"minecraft:infinity":1}'
+    schema_version: 1
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:anvil
+    count: 1
+    schema_version: 1
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:book
+    count: 48
+    schema_version: 1
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:ominous_bottle
+    count: 1
+    schema_version: 1
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:splash_potion
+    count: 1
+    components:
+      minecraft:potion_contents: '{potion:"minecraft:fire_resistance"}'
+    schema_version: 1
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:golden_apple
+    count: 57
+    schema_version: 1
+score: 0
+warps:
+- an;world:556.217718682331:70.0:865.9596613106776:170.19907:22.847301

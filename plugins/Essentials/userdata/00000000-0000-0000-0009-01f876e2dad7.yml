@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749621203568
+  login: 1749620986540
+money: '0'
+last-account-name: BE_DuyTapChoi_46
+logoutlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 1819.9924
+  y: 150.0
+  z: -616.37823
+  yaw: 84.13052368164062
+  pitch: 8.778091430664062
+lastlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 5152.5
+  y: 88.0
+  z: 4144.5
+  yaw: 175.616455078125
+  pitch: 38.81684875488281

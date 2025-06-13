@@ -1,0 +1,193 @@
+name: bang
+description: ''
+open: false
+pvp: false
+anchor: false
+home: world:6853.80244194519:79.0:1660.9861118825118:0.8267879:31.191374
+color: '6'
+chests: []
+players:
+- e114ebe0-f778-3e82-a75e-eda344a1cdcc,DEFAULT
+- 00000000-0000-0000-0009-01f4ca6fba5f,DEFAULT
+- a21b695e-9dd4-3811-961c-3d4e6892c3e3,OWNER
+anchoredPlayers: []
+level: 1
+tag: cuop
+score: 0
+echest:
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:enchanted_golden_apple
+    count: 1
+    schema_version: 1
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:totem_of_undying
+    count: 1
+    schema_version: 1
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:nether_wart
+    count: 27
+    schema_version: 1
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:cooked_mutton
+    count: 62
+    schema_version: 1
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:cooked_beef
+    count: 64
+    schema_version: 1
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:totem_of_undying
+    count: 1
+    schema_version: 1
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:flint
+    count: 1
+    schema_version: 1
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:cooked_beef
+    count: 9
+    schema_version: 1
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:netherite_upgrade_smithing_template
+    count: 1
+    schema_version: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:diamond
+    count: 64
+    schema_version: 1
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:amethyst_shard
+    count: 16
+    schema_version: 1
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:lapis_lazuli
+    count: 64
+    schema_version: 1
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:coast_armor_trim_smithing_template
+    count: 2
+    schema_version: 1
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:name_tag
+    count: 2
+    schema_version: 1
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:diamond
+    count: 32
+    schema_version: 1
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:diamond_axe
+    count: 1
+    components:
+      minecraft:damage: '114'
+    schema_version: 1
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:book
+    count: 54
+    schema_version: 1
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:iron_ingot
+    count: 56
+    schema_version: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:blaze_rod
+    count: 11
+    schema_version: 1
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:enchanted_book
+    count: 1
+    components:
+      minecraft:stored_enchantments: '{"minecraft:power":4,"minecraft:protection":3,"minecraft:smite":4}'
+    schema_version: 1
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:enchanted_book
+    count: 1
+    components:
+      minecraft:stored_enchantments: '{"minecraft:fire_protection":3,"minecraft:sharpness":3}'
+    schema_version: 1
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:enchanted_book
+    count: 1
+    components:
+      minecraft:stored_enchantments: '{"minecraft:protection":3}'
+    schema_version: 1
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:enchanted_book
+    count: 1
+    components:
+      minecraft:stored_enchantments: '{"minecraft:punch":2,"minecraft:unbreaking":3}'
+    schema_version: 1
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:enchanted_book
+    count: 1
+    components:
+      minecraft:stored_enchantments: '{"minecraft:flame":1}'
+    schema_version: 1
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:enchanted_book
+    count: 1
+    components:
+      minecraft:stored_enchantments: '{"minecraft:density":4,"minecraft:respiration":3}'
+    schema_version: 1
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:lapis_lazuli
+    count: 64
+    schema_version: 1
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4325
+    id: minecraft:lapis_lazuli
+    count: 64
+    schema_version: 1

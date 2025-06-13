@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1749457818627
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749518211098
+  login: 1749517950234
+money: '0'
+last-account-name: BE_Sourcrafter26
+lastlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 7.5
+  y: 70.0
+  z: 4.5
+  yaw: -0.0054931640625
+  pitch: 0.1702728271484375
+logoutlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 52.093033
+  y: 63.0
+  z: 78.51842
+  yaw: 84.34371948242188
+  pitch: -81.58787536621094

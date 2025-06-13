@@ -1,0 +1,63 @@
+# Please translate these messages and then submit them to the Booksaw Development (https://discord.gg/JF9DNs3) in the #messages-submissions channel for a special rank
+# Your translations will be included in the next update
+# When you are done translating, run '/teama importmessages' to include the translated messages in your main file
+create.minLength: &4That team name is too short
+info.anchor: &6Anchor: &b{0}
+info.onlinePlayer: <green>{0}</green>
+info.offlinePlayer: <red>{0}</red>
+info.playerListSpace:  
+anchor.enabled: &6Now you allow your respawning at team home
+anchor.disabled: &6Now you do not allow your respawning at team home
+anchor.noHome: &6Your team must have team home set and team anchor enabled
+setanchor.enabled: &6Team anchor enabled
+setanchor.disabled: &6Team anchor disabled
+setanchor.notifyEnable: &6Team anchor has been enabled by {0}
+setanchor.notifyDisable: &6Team anchor has been disabled by {0}
+setanchor.noHome: &4Must set a team home first
+setanchor.noPerm: &4You don't have permission to set your team's anchor state
+setanchor.noBool: &4Team anchor state can only be true or false
+ally.ally_title: &6Your team is now allied with &b{0}
+neutral.remove_title: &4You are no longer allied with &b{0}
+chest.check.self: &6Your team has claimed that chest
+chest.check.notClaimed: &6That chest has not been claimed
+chest.check.claimed: &6That chest is claimed by &a{0}
+admin.versionplugins: &6Plugin integrations: &b{0}
+admin.versionconflicts: &6Potential conflicts: &b{0}
+admin.anchor.enabled: &6Forced the player to allow their respawning at their team's home
+admin.anchor.disabled: &6Forced the player to disallow their respawning at their team's home
+admin.setanchor.enabled: &6That team's anchor status has been enabled
+admin.setanchor.disabled: &6That team's anchor status has been disabled
+admin.setanchor.noHome: &4That team must have a home set first
+admin.open.successopen: &6That team is now open for everyone
+admin.open.successclose: &6That team is now invite only
+admin.import.fail: &4The messages import failed, check the console for errors
+admin.import.success: &6The messages have been successfully imported
+help.anchor: Toggles whether you want to respawn at your team's home
+help.setanchor: Sets your team home's ability to serve as a respawn point
+help.chest.help: View this help page
+help.chest.removeall: Remove all claimed chests (useful if you lose track of a chest)
+help.chest.claim: Claim the chest you are standing on
+help.chest.check: Check if the chest you are standing on is claimed
+help.chest.remove: Removes your teams claim from the chest you are standing on
+helpArg.chest.help: 
+helpArg.chest.removeall: 
+helpArg.chest.claim: 
+helpArg.chest.check: 
+helpArg.chest.remove: 
+helpArg.anchor: 
+helpArg.setanchor: <true/false>
+command.anchor: anchor
+command.setanchor: setanchor
+command.check: check
+command.importmessages: importmessages
+webhook.unknownPlayer: an unknown player
+webhook.create.title: New team created - {0}
+webhook.create.description: A team called **{0}** has been created by **{1}**
+webhook.disband.title: Team disbanded - {0}
+webhook.disband.description: A team called **{0}** has been disbanded by **{1}**
+webhook.leave.title: Team member left - {0}
+webhook.leave.description: A user named **{0}** has left team **{1}**
+webhook.rename.title: Team name change - {0}
+webhook.rename.description: A team called **{0}** had its name changed to **{1}** by **{2}**
+webhook.chat.title: Team Message: {0} [{1}]
+webhook.chat.description: {0}

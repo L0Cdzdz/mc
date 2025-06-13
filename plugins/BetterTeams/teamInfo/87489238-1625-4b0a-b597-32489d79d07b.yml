@@ -1,0 +1,14 @@
+name: chill
+description: ''
+open: false
+pvp: false
+anchor: false
+home: world:5319.4014:200.0:4439.187:48.49118:19.931427
+color: '6'
+chests: []
+players:
+- 00000000-0000-0000-0009-01f48522da92,OWNER
+anchoredPlayers: []
+level: 1
+tag: ''
+score: 0

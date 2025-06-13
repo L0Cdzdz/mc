@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.113.23.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1749704239323
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749704730404
+  login: 1749703289299
+money: '0'
+last-account-name: HotBoiTrungKi
+lastlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 1875.29881961887
+  y: 92.50816116908277
+  z: -120.57332229759685
+  yaw: 43.639404296875
+  pitch: 21.610260009765625
+logoutlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 5536.944960407962
+  y: 74.68577424655412
+  z: 1315.7590694733535
+  yaw: 61.14569091796875
+  pitch: -6.300771713256836
+last-message-reply-recipient: true

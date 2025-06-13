@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1749457406934
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749519123900
+  login: 1749518063213
+money: '0'
+last-account-name: DuyTapChoi_4692
+lastlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 986.30001
+  y: -56.0
+  z: -254.69999
+  yaw: 101.06060791015625
+  pitch: 22.189376831054688
+logoutlocation:
+  world: 78b351e3-2178-4b11-a643-64f7ddfba935
+  world-name: world
+  x: 1658.30001
+  y: -23.0
+  z: -1469.5088
+  yaw: 51.17405700683594
+  pitch: 2.6942291259765625
